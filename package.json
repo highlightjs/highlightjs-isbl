@@ -1,0 +1,25 @@
+{
+  "name": "highlightjs-isbl",
+  "version": "0.9.0",
+  "description": "highlight.js syntax definition for ISBL",
+  "main": "src/languages/isbl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/highlightjs/highlightjs-isbl.git"
+  },
+  "keywords": [
+    "isbl",
+    "highlight.js",
+    "highlightjs",
+    "syntax"
+  ],
+  "author": "Dmitriy Tarasov <dimatar@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/highlightjs/highlightjs-isbl/issues"
+  },
+  "homepage": "https://github.com/highlightjs/highlightjs-isbl"
+}
