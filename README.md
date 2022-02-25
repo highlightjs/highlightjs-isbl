@@ -6,7 +6,9 @@ This grammar has been extracted from Highlight.js and could use a new maintainer
 
 # ISBL - a language grammar for highlight.js
 
-![version](https://badgen.net/npm/v/highlightjs-isbl) ![license](https://badgen.net/badge/license/MIT/blue)
+![version](https://badgen.net/npm/v/highlightjs-isbl)
+![license](https://badgen.net/badge/license/MIT/blue)
+![compatible with v11.x](https://badgen.net/badge/compatibility/v11.x/cyan)
 ![install size](https://badgen.net/packagephobia/install/highlightjs-isbl) ![minified size](https://badgen.net/bundlephobia/min/highlightjs-isbl)
 
 ## Usage
@@ -66,6 +68,5 @@ This grammar has been extracted from Highlight.js and could use a new maintainer
 
 - The official site for the Highlight.js library is <https://highlightjs.org/>.
 - The Highlight.js GitHub project: <https://github.com/highlightjs/highlight.js>
-- Learn more about robots.txt: <https://support.google.com/webmasters/answer/6062608?hl=en>
 
-[1]: https://github.com/highlightjs/highlightjs-isbl/blob/master/LICENSE
+[1]: https://github.com/highlightjs/highlightjs-isbl/blob/main/LICENSE
